@@ -56,11 +56,10 @@ public class LinkedList<T> {
         Node newNode = new Node(data);
         if (length == 0) {
             head = newNode;
-            tail = newNode;
         } else {
             tail.next = newNode;
-            tail = newNode;
         }
+        tail = newNode;
         length++;
     }
 

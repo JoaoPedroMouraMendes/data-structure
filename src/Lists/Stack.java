@@ -39,12 +39,10 @@ public class Stack<T> {
 
     public void push(T data) {
         Node newNode = new Node(data);
-        if (height == 0) {
-            top = newNode;
-        } else {
+        if (height != 0) {
             newNode.next = top;
-            top = newNode;
         }
+        top = newNode;
         height++;
     }
 
