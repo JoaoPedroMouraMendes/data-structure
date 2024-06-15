@@ -15,6 +15,8 @@ public class Queue<T> {
         }
     }
 
+    public  Queue() {}
+
     public Queue(T data) {
         Node newNode = new Node(data);
         first = newNode;
