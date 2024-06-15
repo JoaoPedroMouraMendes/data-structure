@@ -11,7 +11,6 @@ public class Tree<T> {
 
         Node(T data) {
             this.data = data;
-
         }
 
         public boolean isLeaf() {
