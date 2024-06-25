@@ -1,7 +1,7 @@
-# Data Structure
+# 🧩 Data Structure
 Afinal, como as listas funcionam? É como um array mas muito melhor quando precisamos que seja dinâmico, ou seja, remover, adicionar e buscar dados. Apesar de usar muito, nunca parei para pensar em como funcionam até criar este projeto de estudos.
 
-## 📖 BIO
+## 📖 Bio
 
 Esse é um dos projetos que aprendi no curso da plataforma ADA, onde adquiri muito conhecimento sobre a linguagem Java e programação no geral.
 
