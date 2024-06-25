@@ -98,6 +98,6 @@ void append(T data) {
 
 Esse é o funcionamento básico de adicionar um elemento a uma lista. Existem algumas considerações adicionais nesse método para lidar com casos como lista vazia, mas essa é a ideia principal.
 
-### ✔️ Conclusão
+## ✔️ Conclusão
 
 Agora acredito que você tenha uma noção melhor de como a estrutura de uma lista funciona. Apesar de eu não ter abordado como cada método funciona, imagino que agora você consiga compreender os métodos que estão no código.
